@@ -1,0 +1,16 @@
+# Contado chistes
+
+print('¿Qué sale de la cruza entre un mono y pato?')
+input()
+print('¡ Un monopatín!')
+print()
+print('¿ Por qué vuelan los pájaros pa\'l sur?')
+input()
+print('¡ Porque caminando tardarían muchísimo!')
+print()
+print('¿ En qué se parecen una familia, un bombero y un barco?')
+input()
+print('En que el bombero y el barco tienen casco.')
+input()
+print('¿ Y la familia?', end = '')
+print('-Bien, gracias.')
